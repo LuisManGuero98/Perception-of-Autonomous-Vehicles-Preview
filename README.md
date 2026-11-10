@@ -2,7 +2,7 @@
 
 *2D Object detector based on camera data*
 
-In this project, a vehicle object detection network is trained usong YOLOv5 and YOLOv8 models. Performance of such models is assessed based on precision, recall, and Mean Average Precision (mAP).
+In this project, a vehicle object detection network is trained using YOLOv5 and YOLOv8 models. Performance of such models is assessed based on precision, recall, and Mean Average Precision (mAP).
 
 Two different datasets derived from the KITTI datase, including an augmented dataset, are used to train and evaluate the models. Results show that YOLOv8 trained on the augmented dataset achieves the highest mAP score. The study also identifies challenges in detecting vehicles near image edges. Future work may involve addressing this limitation and further improving the models’ performance.
 
